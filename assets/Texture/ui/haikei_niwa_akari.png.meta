@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "8bb898a6-4ca4-4294-ac43-ae349fa5e18b",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "haikei_niwa_akari": {
+      "ver": "1.0.3",
+      "uuid": "a3ef8ad4-fdc7-400d-b78d-5b33d1d0c621",
+      "rawTextureUuid": "8bb898a6-4ca4-4294-ac43-ae349fa5e18b",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1152,
+      "height": 1138,
+      "rawWidth": 1152,
+      "rawHeight": 1138,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

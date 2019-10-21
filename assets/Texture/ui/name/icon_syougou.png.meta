@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "b1841908-2b14-4535-a058-2265adbc9369",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "icon_syougou": {
+      "ver": "1.0.3",
+      "uuid": "5769bdd3-94a2-4997-81ae-5d5355cd1db3",
+      "rawTextureUuid": "b1841908-2b14-4535-a058-2265adbc9369",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 53,
+      "height": 52,
+      "rawWidth": 53,
+      "rawHeight": 52,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

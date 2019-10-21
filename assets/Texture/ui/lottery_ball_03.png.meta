@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "48445048-6407-4e58-8b46-edb875ff2d04",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "lottery_ball_03": {
+      "ver": "1.0.3",
+      "uuid": "d36bc66d-d8e4-4542-903f-c0070321d943",
+      "rawTextureUuid": "48445048-6407-4e58-8b46-edb875ff2d04",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 140,
+      "height": 140,
+      "rawWidth": 140,
+      "rawHeight": 140,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
