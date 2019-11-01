@@ -3,9 +3,11 @@
 ### 语言：Typescript
 
 ### 展示：
-![Image loading](./pic/loading.png)
+![Image loading](http://pic.yupoo.com/jsmask/8e480d41/15b3e87c.png)
 
-![Image stage0](./pic/stage0.png)
+![Image stage0](http://pic.yupoo.com/jsmask/adc47755/c8a9182e.png)
 
-![Image stage1](./pic/stage1.png)
+![Image stage1](http://pic.yupoo.com/jsmask/9c25b236/6a840b01.png)
+
+
 
